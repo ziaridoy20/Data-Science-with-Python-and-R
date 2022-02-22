@@ -1,0 +1,19 @@
+Correction:
+- Q1: Nothing here.
+- Q2: Nothing here.
+- Q3: Nothing here.
+- Q4: Nothing here.
+
+
+Grading scheme:
+- At least one question entirely correct => 2 Points
+- No question entirely correct =>1 Point
+- Nothing submitted => 0 Point
+
+Your team's grade:
+2
+
+Reviewer:
+Ahsen
+
+If you have questions on the correction, please contact the reviewer by mail (find detailed instructions on the OLAT assignment page). 

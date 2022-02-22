@@ -1,0 +1,15 @@
+Team members : 
+
+Md Ziauddin Ridoy 220100676 , ziaridoy20@uni-koblenz.de
+
+The whole R project is here, project can open with R studio 
+
+File List :
+1. Problem_5.1.R
+2. Problem_5.2.R
+3. Problem5.1_Plot
+4. Problem5.2_Plot
+
+Others are R Project files. :)
+
+

@@ -1,0 +1,9 @@
+Correction:
+- Good Job
+- Plot for question 02 can be improved further, please 
+take a look at Statistic Modeling Tutorial for reference solution.
+Your team's grade:
+2/2
+
+Reviewer:
+Usama Mazhar

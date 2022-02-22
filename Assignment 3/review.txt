@@ -1,0 +1,17 @@
+Correction:
+Please include PDFs in the future;
+Q3 is incomplete.
+
+Grading scheme:
+At least two correct plots => 2 Points
+At least one correct plot => 1 Point
+Nothing submitted or all plots wrong => 0 Point
+No code => -1  Point
+
+Your team's grade:
+2
+
+Reviewer:
+Ahsen Naeem
+
+If you have questions on the correction, please contact the reviewer by mail (find detailed instructions on the OLAT assignment page).

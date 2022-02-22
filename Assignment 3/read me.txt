@@ -1,0 +1,14 @@
+Team members : 
+
+Md Ziauddin Ridoy 220100676 , ziaridoy20@uni-koblenz.de
+
+
+
+There are three Interactive PYthon NoteBook files in the zip folder. 
+
+1. Assignment_3_Task_1.ipynb
+2. Assignment_3_Task_2.ipynb
+3. Assignment_3_Task_3.ipynb
+
+
+And also corresponding datasets : data1,data2,data3. 
